@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "7036",
+      "cityName": "Sedano",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-31T10:33:08.597Z",
+      "notes": "fsfs",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-3.7792968750000004"
+      }
+    },
+    {
+      "id": "1445",
+      "cityName": "Lalendorf",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-02-01T07:56:04.879Z",
+      "notes": "Test",
+      "position": {
+        "lat": "53.77468884583577",
+        "lng": "12.370605468750002"
+      }
+    },
+    {
+      "id": "ea58",
+      "cityName": "lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-01T09:29:26.245Z",
+      "notes": "",
+      "position": {
+        "lat": "38.65119833229951",
+        "lng": "-9.118652343750002"
+      }
+    },
+    {
+      "id": "361d",
+      "cityName": "Valsad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-09T12:34:50.497Z",
+      "notes": "Home town",
+      "position": {
+        "lat": "20.606435258249096",
+        "lng": "72.91969299316408"
+      }
+    },
+    {
+      "id": "765c",
+      "cityName": "Macedo de Cavaleiros",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-06-10T10:03:50.883Z",
+      "notes": "Test",
+      "position": {
+        "lat": "41.57436130598913",
+        "lng": "-6.921386718750001"
+      }
+    }
+  ]
+}
